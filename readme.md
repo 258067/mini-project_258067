@@ -1,0 +1,3 @@
+# Applied SDLC using C language
+![depos---itphotos_41642213-stock-illustration-snakes-and-ladders-board-game](https://user-images.githubusercontent.com/81506807/114458255-99d6ff00-9bfc-11eb-9c77-ec3c8c6305ec.jpg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6e4ce727173840499574b8bb07ad7edd)](https://www.codacy.com/gh/258067/mini-project_258067/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=258067/mini-project_258067&amp;utm_campaign=Badge_Grade)
