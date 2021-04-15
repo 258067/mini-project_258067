@@ -30,7 +30,8 @@ run : $(EXEC)
 clean:
 	$(RM) $(EXEC)
 
-valgrind: $(EXEC) 
+valgrind: clean
+	$(CC) $(CFLAGS) $(INC) $^ -o $@ $(LINK) -D VALGRIND
 	valgrind ./$(EXEC)
 
 $(EXEC_TEST): $(UNITY_SRC) $(SRC) tests/tests.c
