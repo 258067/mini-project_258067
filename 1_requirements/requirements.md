@@ -17,9 +17,10 @@
 ## Variations
 - Different variations of the game exists and depending on the type of variation, the rules for winning are decided.
 - If the die roll is too large when a player is close to winning, the token either remains in place or goes off the final square and back again.
-![File Snakes_and_Ladders](https://user-images.githubusercontent.com/81506807/114445739-0e567180-9bee-11eb-9364-b1cfa7db18bc.jpg)
+
+   ![File Snakes_and_Ladders](https://user-images.githubusercontent.com/81506807/114445739-0e567180-9bee-11eb-9364-b1cfa7db18bc.jpg)
         
-  Game of Snakes and ladders (India, 19th century)
+     Game of Snakes and ladders (India, 19th century)
   # SWOT Analysis
   ## Strengths
   1. A very quick and simple game.
